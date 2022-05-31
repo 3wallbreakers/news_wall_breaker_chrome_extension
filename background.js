@@ -6,6 +6,6 @@ chrome.action.onClicked.addListener((tab) => {
 });
 
 function breakwall() {
-  var url = "https://archive.ph/submit/?url=" + document.location
+  var url = "https://3wallbreakers.deta.dev/news_wall_breaker/?url=" + document.location
   window.open(url);
 }
