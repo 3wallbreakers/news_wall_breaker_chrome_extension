@@ -1,2 +1,2 @@
-var url = "https://archive.ph/submit/?url=" + document.location
+var url = "https://qpy2dk.deta.dev/news_wall_breaker/?url=" + document.location
 window.open(url);
